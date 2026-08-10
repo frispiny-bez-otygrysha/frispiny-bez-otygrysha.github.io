@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: frispiny-bez-otygrysha.github.io
+Sitemap: https://frispiny-bez-otygrysha.github.io/sitemap.xml
